@@ -1,4 +1,7 @@
-# Only track .tex and .pdf files
+# Ignore all the latex puke
 
-!*.tex
-!*.pdf
+*.aux
+*.dvi
+*.log
+*.ps
+*.toc

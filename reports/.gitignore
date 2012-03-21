@@ -1,0 +1,4 @@
+# Only track .tex and .pdf files
+
+!*.tex
+!*.pdf
